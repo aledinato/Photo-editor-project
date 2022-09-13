@@ -1,0 +1,32 @@
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe.config
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.pdb
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.AssemblyReference.cache
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.SuggestedBindingRedirects.cache
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Form1.resources
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Properties.Resources.resources
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.GenerateResource.cache
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.CoreCompileInputs.cache
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.exe
+//Mac/iCloud/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.pdb
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.AssemblyReference.cache
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.SuggestedBindingRedirects.cache
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Form1.resources
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Properties.Resources.resources
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.GenerateResource.cache
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.CoreCompileInputs.cache
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.exe
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.pdb
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe.config
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe
+C:/Users/Alessandro Dinato/iCloudDrive/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.pdb
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe.config
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.exe
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/bin/Debug/ProgettoPhotoshop.pdb
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.AssemblyReference.cache
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Form1.resources
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.Properties.Resources.resources
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.GenerateResource.cache
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.csproj.CoreCompileInputs.cache
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.exe
+/Users/alessandrodinato/Library/Mobile Documents/com~apple~CloudDocs/scuola/informatica/ProgettoPhotoshop/ProgettoPhotoshop/obj/Debug/ProgettoPhotoshop.pdb
